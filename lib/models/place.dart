@@ -14,13 +14,13 @@ class PlaceLocation {
   });
 }
 
-class Places {
+class Place {
   final String id;
   final String title;
   final PlaceLocation location;
   final File image;
 
-  Places({
+  Place({
     @required this.id,
     @required this.title,
     @required this.location,
