@@ -36,6 +36,8 @@ dependencies:
   path_provider: ^1.6.14
   location: ^2.3.5
   google_maps_flutter: ^0.5.31
+  http: ^0.12.2
+
 
 
 
